@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Anusha
-- 👀 I’m interested in extending my knowledge in automated testing of applications/apis/databases...
+- 👀 I’m interested in extending my knowledge in automated testing of applications/apis/databases...Looking for opportunies in Full time career opportunities. 
 - 🌱 I’m currently exploring selenium advanced topics ...
+- 
 - 📫 How to reach me through my email anushareddy142@gmail.com
 
 <!---
